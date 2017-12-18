@@ -1,3 +1,3 @@
-# hello-world
-Hi humans,
-I am Vansh, I love to code. I play games a lot and dont study a bit.
+Hello Sugar Labs
+
+I am Vansh Sood, a student of montfort school. I am 15 years old and love to code.
